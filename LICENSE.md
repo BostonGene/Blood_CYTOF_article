@@ -6,7 +6,7 @@ The Multiregional analysis of ccRCC is provided to the research community to exp
 
 As used in this limited license and terms of use, “Code” means this analysis, all software code running this analysis, all software code associated with this analysis, all pictorial or graphic representations of data on this analysis, and all software code and associated the following manuscript, no matter how the Code is accessed or obtained:
 
-    , "" in press.
+    Svetlana Shishkova, Dmitry Tabakov, Evgeny Egorov, Akshaya Ramachandran, Yang Lyu, Krystle Nomie, Anna Love, Vladimir Zyrin, Alexander Zaytcev, Natalia Miheecheva, Ekaterina Postovalova, Tatiana Vasilyeva, Maria Tsiper, Alexander Bagaev, Michael Goldberg, Ravshan Ataullakhanov, Emily Cheng, Nathan Fowler, and James Hsieh, "Unsupervised clustering of peripheral blood immune cells reveals discrete immunotypes that correlate with immunotherapy response in advanced clear cell renal cell carcinoma" in press.
 
 BY UTILIZING THE CODE, YOU ARE CONSENTING TO BE AND AGREE TO BE BOUND BY ALL OF THE TERMS OF THIS LIMITED LICENSE, WHICH FOLLOW:
 
